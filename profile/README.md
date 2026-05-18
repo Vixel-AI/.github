@@ -5,7 +5,7 @@
 <h1 align="center">Vixel AI</h1>
 
 <p align="center">
-  <b>Generative AI video games.</b><br/>
+  <b>Generative AI Interactive Entertainment</b><br/>
   Every episode branches. Every viewer is a director.
 </p>
 
