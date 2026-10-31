@@ -55,6 +55,7 @@ credit limit you approve, and it never posts to social channels.
 | Claude Code | `/plugin marketplace add Vixel-AI/vixel-plugins`, then `/plugin install vixel@vixel`, then `/mcp` → `vixel` → Authenticate |
 | Codex | `codex plugin marketplace add https://github.com/Vixel-AI/vixel-plugins`, then `codex plugin add vixel-creator@vixel-ai` |
 | Any agent (Skill only) | `npx skills@1.7.0 add Vixel-AI/vixel-plugins` |
+| Claude app (web, desktop) | Customize → Connectors → **+ Add** → Add custom connector, name it `Vixel`, paste `https://drama.vixelai.com/api/mcp`, then Connect and sign in. On Team and Enterprise plans an owner adds it in Organization settings → Connectors first. Once added it also works in the mobile app |
 | Any MCP client | Remote server `https://drama.vixelai.com/api/mcp` with browser sign-in |
 
 More in [Vixel-AI/vixel-plugins](https://github.com/Vixel-AI/vixel-plugins) and
